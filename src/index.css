@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contanier{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.contanier h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size:40px;
+    color: green;
+}
+
+.contanier p{
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.btn{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    margin-top: 20px;
+    gap: 20px;
+
+}
